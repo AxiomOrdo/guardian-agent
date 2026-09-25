@@ -49,9 +49,6 @@ We have published the project proposal, architecture, delivery milestones, and a
 
 Initial users are developers building Base dApps who need a reusable risk explanation and signing workflow. We will seek one design partner and test whether users understand the warnings before expanding. English is the first language; Thai localization and Solana token screening are follow-on work subject to user feedback and verified coverage. No partnerships or user numbers are claimed.
 
-## Team and skills — complete personally
-
-Project submitted under AxiomOrdo. Add your name, actual role, relevant public project links, verified technical experience, and realistic weekly availability. List only skills you can substantiate. Do not copy the original claims of ten years' experience, Rust/Anchor mastery, full-time availability, or a 3–5x productivity multiplier unless independently true.
 
 ## Links
 
